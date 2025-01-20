@@ -1,0 +1,12 @@
+Hello,  
+My name is Disha, and I am currently pursuing a Master's in Cybersecurity.  
+I earned my Bachelor of Engineering in Information Technology with an 8.64 GPA.  
+
+I am skilled in:  
+- Programming Languages: HTML/CSS, Python, C++, JavaScript, SQL  
+- Tools and Applications: Microsoft Office Suite, Power BI, MATLAB, Adobe Photoshop, Canva, Autodesk Sketchbook  
+- Cybersecurity Concepts: Threat analysis, system audits, secure database management
+
+I enjoy learning new technologies, solving technical challenges, and contributing to secure and efficient systems.  
+
+Thank you for reviewing this file.  
